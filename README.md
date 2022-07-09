@@ -148,7 +148,7 @@ conn.logger.level = 'debug'
 
 **Orang Tua**,
 
-**All Team Bot Discussion**,
+**OWNER!!! **,
 
 **Semua yang selalu mendukung**
 
